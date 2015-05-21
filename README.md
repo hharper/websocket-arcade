@@ -1,6 +1,6 @@
 # Websocket Arcade
 
-Pick some fun, simple game for two (or more?) players.
+Pick some fun, simple game for two (or more) players.
 
 Then, turn it into a Websocket-based app that the players can play from different computers!
 
